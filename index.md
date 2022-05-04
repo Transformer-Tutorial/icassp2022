@@ -1,6 +1,6 @@
 ---
 layout: home
-title: ICASSP 2022 Tutorial
+title: ICASSP Tutorial
 nav_exclude: true
 seo:
   type: Course

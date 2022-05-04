@@ -2,7 +2,7 @@
 layout: page
 title: Schedule
 description: Listing of course modules and topics.
-nav_exclude: false
+nav_exclude: true
 ---
 
 # Course Schedule
