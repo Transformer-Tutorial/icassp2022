@@ -13,12 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: CSCI 2952-N
-tagline: Brown CSCI 2952N 
-description: Brown CSCI 2952N 
+title: ICASSP 2022 Tutorial
+tagline: ICASSP 2022 Tutorial
+description: ICASSP 2022 Tutorial 
 author: Chen Sun
-baseurl: '/index' # the subpath of your site, e.g. /blog
-url: 'https://brown-cs2952n.github.io' # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: '/icassp2022' # the subpath of your site, e.g. /blog
+url: 'https://transformer-tutorial.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
 # Theme settings
