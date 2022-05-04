@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-nav_exclude: true
+nav_exclude: false
 description: Course policies and information.
 ---
 
