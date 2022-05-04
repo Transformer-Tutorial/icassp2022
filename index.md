@@ -1,13 +1,13 @@
 ---
 layout: home
-title: CS 2952N
+title: ICASSP 2022 Tutorial
 nav_exclude: true
 seo:
   type: Course
   name: Just the Class
 ---
 
-# Advanced Topics in Deep Learning
+# Transformer Architectures for Multimodal Signal Processing and Decision Making
 
 ---
 
@@ -24,8 +24,12 @@ _Lectures will be recorded for asynchronous viewing, and livestreamed for studen
 
 ## About
 
-Welcome to CSCI 2952N! This course aims at preparing graduate-level students the research knowledge they need to apply Deep Learning techniques for their own research. Over the past few years, there has been tremendous success in developing unified neural architectures that achieve state-of-the-art performance on language understanding (GPT-3), visual perception (ViT), and even protein structure prediction (AlphaFold). We plan to understand how they work, and how the success of such unified models can give rise to further developments on self-supervised learning, a technique that trains machine learning models without requiring labeled data; and multimodal learning, a technique that utilizes multiple input sources, such as vision, audio, and text. We will also study recent attempts to interpret these models, thus revealing potential risks on model bias.  
-The course is organized as a combination of paper reading, student presentations, and invited guest lectures. It also requires the students to work on a final project that explores a novel direction they choose along the line of the papers we cover.
+The Transformer neural architectures [1] have become the de-facto model of choice in natural language processing (NLP) [2,3]. In computer vision, there has recently been a surge of interest in end-to-end Transformers [4–9], prompting the efforts to replace hand-wired features or inductive biases with general-purpose neural architectures powered by data-driven training. The Transformer architectures have also arrived at state-of-the-art performance in multimodal learning [10], protein structure prediction [11], decision making [12], and so on. 
+
+These results indicate the Transformer architectures'  great potential beyond the previously mentioned domains and in the signal processing (SP) community. We envision these efforts may lead to a unified knowledge base that produces versatile representations for different data modalities, simplifying the inference and deployment of deep learning models in various application scenarios. Hence, we believe it is timely to provide a short course on the Transformer architectures and related learning algorithms. 
+
+In this short course, we plan to provide a deep dive into these neural architectures, understand how they work, and focus on their impacts on self-supervised learning, a technique that trains machine learning models without requiring labeled data, and multimodal learning, a technique that leverages multiple input sources, such as vision, audio, and text. We will also study recent attempts to interpret these models, thus revealing potential risks on model bias. This course aims at providing the audience with knowledge about the Transformer neural architectures and related learning algorithms so that they can apply them to their own research and further advance their state of the arts. 
+
 
 ## Learning Goals
 
