@@ -40,7 +40,8 @@ We anticipate students will:
 
 ## Resources
 
-- [Prismia](https://prismia.chat/projects/5c703ec5-5485-4b2c-b1f8-eac07660aad4/join)
+- [Prismia Signup](https://prismia.chat/projects/5c703ec5-5485-4b2c-b1f8-eac07660aad4/join)
+- [Quiz](https://app.smartsheet.com/b/form/4bc75d2bdd764321980cff67c2f9195f)
 
 ## Pre-Reading
 

@@ -2,45 +2,52 @@
 title: Paper reading list and presenters
 ---
 
-Jan 27, Thu
-: [Course Overview](https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5f6867f8-01c6-4128-a8c4-ae2a0143b145) ([slides](https://drive.google.com/file/d/1N9kidliGRNPrfeERrUwlozbUbMoFg1l3/view?usp=sharing))
+Session 1
+: Introduction and Motivation (May 24, 19:00 - 19:50)
+  : Boqing Gong, Chen Sun
+
+Session 2
+: Recurrent Networks, Attention, Transformers (May 24, 20:00 - 21:30)
+  : Boqing Gong, Chen Sun
+: 1. [The Annotated Transformer](http://nlp.seas.harvard.edu/annotated-transformer/)
+  1. [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
+  1. [Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473)
+
+Session 3
+: Transformers for Vision and Long Sequences (May 24, 21:30 - 23:00)
+  : Boqing Gong, Chen Sun
+: 1. [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929)
+  1. [Swin Transformer: Hierarchical Vision Transformer using Shifted Windows](https://arxiv.org/abs/2103.14030)
+  1. [Big Bird: Transformers for Longer Sequences](https://arxiv.org/abs/2007.14062)
+  1. [Long Range Arena: A Benchmark for Efficient Transformers](https://arxiv.org/abs/2011.04006)
+
+Session 4
+: Optimization for Transformers (May 25, 19:00 - 19:50)
+  : Boqing Gong
+: 1. [When Vision Transformers Outperform ResNets without Pre-training or Strong Data Augmentations](https://arxiv.org/abs/2106.01548)
+  1. [Surrogate Gap Minimization Improves Sharpness-Aware Training](https://openreview.net/forum?id=edONMAnhLu-)
+
+Session 5
+: Self-supervised Transformers (May 25, 20:00 - 20:50)
   : Chen Sun
+: 1. [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)
+  1. [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165)
 
-Feb. 1, Tue
-: [Recap: CNNs and Transformers](https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=aae5ae83-07b9-4f22-a060-ae2f01471dc6) ([slides](https://drive.google.com/file/d/1DjQUQGoE1pRn0t5BtTTeVIwmy1jG-lys/view?usp=sharing))
+Session 6
+: Multimodal Transformers (May 26, 19:00 - 20:50)
+  : Boqing Gong, Chen Sun
+: 1. [Attention Bottlenecks for Multimodal Fusion](https://arxiv.org/abs/2107.00135)
+  1. [VideoBERT: A Joint Model for Video and Language Representation Learning](https://arxiv.org/abs/1904.01766)
+  1. [VATT: Transformers for Multimodal Self-Supervised Learning from Raw Video, Audio and Text](https://arxiv.org/abs/2104.11178)
+  1. [CLIP: Connecting Text and Images](https://openai.com/blog/clip/)
+
+Session 7
+: Model Interpretability (May 26, 21:00 - 21:50)
   : Chen Sun
-: 1. [Presentation signup sheet](https://forms.gle/DH4uV5JcJK5BjoFw8)
-  1. [Paper nomination form](https://forms.gle/keevGHpxqbgCK1QQ7)
+: 1. [A Primer in BERTology: What we know about how BERT works](https://arxiv.org/abs/2002.12327)
+  1. [BERT Rediscovers the Classical NLP Pipeline](https://arxiv.org/abs/1905.05950)
+  1. [Do Vision-Language Pretrained Models Learn Primitive Concepts?](https://arxiv.org/abs/2203.17271)
 
-Feb. 3, Thu
-: [Overview: Self- and Cross-modal Learning](https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ea14d639-88aa-42cb-a20d-ae310144e06e) ([slides](https://drive.google.com/file/d/1WsuVg-HjmxEhUmGOi1Y1Q3eVi44YPrIm/view?usp=sharing))
-  : Chen Sun
-: 1. (Background) [How to Read a CS Research Paper](http://www2.cs.uregina.ca/~pwlfong/CS499/reading-paper.pdf) by Philip Fong
-  1. (Background) [How to do research](http://people.csail.mit.edu/billf/publications/How_To_Do_Research.pdf) by Bill Freeman
-  1. (Background) [How to do write a good paper](https://billf.mit.edu/sites/default/files/documents/cvprPapers.pdf) by Bill Freeman
-  1. (Background) [Novelty in Science](https://perceiving-systems.blog/en/news/novelty-in-science) by Michael Black
-  1. (Background) [Self-supervised learning: The dark matter of intelligence](https://ai.facebook.com/blog/self-supervised-learning-the-dark-matter-of-intelligence/) by Yann LeCun and Ishan Misra
-
-Feb. 4, Fri
-: **Due**{: .label .label-purple} [Presentation signup](https://forms.gle/DH4uV5JcJK5BjoFw8)
-
-Feb. 8, Tue
-: [The Unreasonable Effectiveness of Data](https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=035c0c2b-c071-45ed-bd2f-ae3601458e1b) ([Reading survey](https://docs.google.com/forms/d/e/1FAIpQLSfTwd-6uZ7NzQiV8Q7QHCGp4xjOYqO7Mn7PuFiEOgySI6n_Fw/viewform?usp=sf_link) / [Questions](https://drive.google.com/file/d/1nM-7HR8NCwb09mM_EJ6uZT1c-niIIJS5/view?usp=sharing) / [Slides](https://docs.google.com/presentation/d/1UMCutUbumhAz9uiE1YTVuqlD4EOuUFa55EJatpoWG4k/edit?usp=sharing))
-  : Jorge, Koyena, Yipu
-: 1. [Revisiting Unreasonable Effectiveness of Data in the Deep Learning Era](https://arxiv.org/abs/1707.02968)
-  1. [A ConvNet for the 2020s](https://arxiv.org/abs/2201.03545)
-  1. (Background) [The Unreasonable Effectiveness of Data](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/35179.pdf)
-  1. (Background) [Training data-efficient image transformers & distillation through attention](https://arxiv.org/abs/2012.12877)
-  1. (Background) [Exploring Randomly Wired Neural Networks for Image Recognition](https://arxiv.org/abs/1904.01569)
-  1. (Background) [NAS evaluation is frustratingly hard](https://arxiv.org/abs/1912.12522)
-  1. (Background) [The bitter lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)
-
-
-Feb. 10, Thu
-: [Semi-supervised Learning](https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9ecb9780-2648-4720-8dc0-ae38014aacf7) ([Reading survey](https://forms.gle/m3FywjTPnR8gPQRw8) / [Questions](https://drive.google.com/file/d/1YKwKzIK_0Awi2rcQFYewrAs4APUdLMm3/view?usp=sharing) / [Slides](https://drive.google.com/file/d/1FwAoyl-jF92EQxYQpH8B2b5aoBCscV8H/view?usp=sharing))
-  : Cheng-You, Vivek
-: 1. [Mean teachers are better role models](https://arxiv.org/abs/1703.01780)
-  1. [MixMatch: A Holistic Approach to Semi-Supervised Learning](https://arxiv.org/abs/1905.02249)
-  1. (Background) [Semi-Supervised Classification with Graph Convolutional Networks](https://arxiv.org/abs/1609.02907)
-  1. (Background) [Inductive Representation Learning on Large Graphs](https://arxiv.org/abs/1706.02216)
-  1. (Background) [Transfer Learning in a Transductive Setting](https://papers.nips.cc/paper/2013/hash/3295c76acbf4caaed33c36b1b5fc2cb1-Abstract.html)
+Session 8
+: Advanced Topics, Recap (May 26, 22:00 - 22:50)
+  : Boqing Gong
