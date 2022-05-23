@@ -3,7 +3,7 @@ title: Paper reading list and presenters
 ---
 
 Session 1
-: Introduction and Motivation (May 24, 19:00 - 19:50)
+: [Introduction and Motivation] (https://prismia.chat/shared/J2AE-A8GP) (May 24, 19:00 - 19:50)
   : Boqing Gong, Chen Sun
 
 Session 2
