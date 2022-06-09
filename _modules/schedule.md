@@ -71,4 +71,5 @@ Session 7
 Session 8
 : Advanced Topics, Recap (May 26, 22:00 - 22:50)
   : Boqing Gong
-: 1. [MLP-Mixer: An all-MLP Architecture for Vision](https://arxiv.org/abs/2105.01601)
+: 1. [Slides](https://docs.google.com/presentation/d/1Cc7nXVUsGIBgoVYZ7bPGfo1eV1_9owBl2DIiNMHc7kA/edit?usp=sharing&resourcekey=0-pacLpZfAVg-f31BSVYD7PQ)
+  1. [MLP-Mixer: An all-MLP Architecture for Vision](https://arxiv.org/abs/2105.01601)
